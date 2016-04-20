@@ -1,2 +1,4 @@
 # hello-world
-Hello-word repo
+
+Hi! This is Max. I love the human world. Have a nice day!
+
